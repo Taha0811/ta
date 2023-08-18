@@ -1,0 +1,22 @@
+body{
+    background: rgb(218, 251, 255) !important;
+    direction: rtl;
+}
+.bg-body-tertiary{
+    background-color: rgb(97, 155, 165) !important;
+}
+#navbar-brand-icon{
+    width: 32px;
+    height: auto;
+    border-radius: 2rem;
+}
+#intro-p{
+    text-align: justify;
+}
+.intro-img{
+    max-width: 440px;
+    height: auto;
+}
+#passwordHelpBlock{
+    font-size: x-small;
+}
