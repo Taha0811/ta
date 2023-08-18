@@ -1,9 +1,9 @@
 body{
-    background: rgb(218, 251, 255) !important;
+    background: rgb(233, 7, 37) !important;
     direction: rtl;
 }
 .bg-body-tertiary{
-    background-color: rgb(97, 155, 165) !important;
+    background-color: rgb(196, 30, 140) !important;
 }
 #navbar-brand-icon{
     width: 32px;
