@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(255, 255, 255);
+    margin: 1rem;
+
+}
+#amir1{
+    float: right;
+    border-radius: 2rem;
+    padding-top: 0rem;
+    width: 15rem;
+    height: 15rem;
+    padding-left: 2rem;
+}
+#amir2{
+    padding-top: 3rem;
+    font-size: small;
+    text-align: center;
+    padding-bottom: 3rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#amir4{
+    display: flex;
+}

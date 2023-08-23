@@ -1,0 +1,51 @@
+body{
+    margin: 1rem;
+}
+#oo{
+    background: rgb(255, 255, 255);
+    border-radius: 2rem;
+}
+#WA{
+    text-align: right;
+}
+#khat{
+    border-style: dotted;
+}
+#ak{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#tt{
+    border-radius: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#khatt{
+    border-style: dotted !important;
+}
+#pp{
+    direction: rtl;
+    text-align: justify;
+    font-size: larger;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+}
+#dd{
+    text-align: right;
+    direction: rtl;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+#fot-sec{
+    text-align: center;
+    font-size: x-large;
+    margin-top: 2rem;
+}
+#khattt{
+    border-style: dotted !important;
+}
