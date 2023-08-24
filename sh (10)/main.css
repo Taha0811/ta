@@ -1,0 +1,58 @@
+body{
+  margin: 1rem;
+}
+#aks{
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
+#n{
+    color: white;
+    
+    
+}
+#n2
+{
+    color: white;
+    text-align: right;
+}
+#amir2{
+    width: 36rem;
+    float: left;
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-bottom: 2rem;
+    border-radius: 7rem;
+}
+#amir3{
+    color: rgb(255, 255, 255);
+    font-size: 3rem;
+    direction: rtl;
+    padding-right:45rem;
+    padding-top: 7rem;
+    text-align: justify;
+}
+#amir4{
+    color: rgb(255, 87, 87);
+    font-size: 3rem;
+    direction: rtl;
+    padding-right: 35rem;
+    padding-top: 1rem;
+    text-align: justify;
+}
+#taha{
+    color: rgb(255, 0, 0);
+    font-size: medium;
+    padding-left: 15rem;   
+    display: flex;
+    padding-right: 20rem;
+    text-align: justify;
+}
+
+
+
+
+
+
+
+
+
