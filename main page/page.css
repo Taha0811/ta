@@ -5,10 +5,7 @@ body{
     background: #ffffff!important;
 }
 
-#center{
-    justify-content: center;
 
-}
 #right{
     justify-content: right;
 }
@@ -35,6 +32,12 @@ direction: rtl;
 .input-group{
     width: 25rem;
 }
+
+.nav-item a{
+    width: 100% !important;
+
+}
+
 .qot{
     text-align: center;
 }
@@ -63,7 +66,6 @@ direction: rtl;
         width: 100%;
         display: sticky !important;
         z-index: 10;
-        height: 5px;
 }
 .header{
 color: #ffffff;
@@ -107,5 +109,5 @@ color: #ffffff;
 }
 
 #text{
-margin: ;
+
 }
