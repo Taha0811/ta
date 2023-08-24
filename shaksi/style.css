@@ -26,6 +26,8 @@
 #amir5{
     color: aqua;
     font-size: smaller;
-    padding-left: 43rem;
-text-align: center;
+    text-align: center;
+}
+.safe-area{
+    justify-content: center;
 }
