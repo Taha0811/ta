@@ -1,0 +1,37 @@
+#amir2{
+    width: 36rem;
+    float: left;
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-bottom: 2rem;
+    border-radius: 7rem;
+}
+#amir3{
+    color: rgb(255, 255, 255);
+    font-size: 3rem;
+    direction: rtl;
+    padding-right:15rem;
+    padding-top: 7rem;
+}
+#amir4{
+    color: rgb(255, 87, 87);
+    font-size: 3rem;
+    direction: rtl;
+    padding-right: 11rem;
+    padding-top: 1px;
+}
+#taha{
+    color: rgb(255, 0, 0);
+    font-size: medium;
+    display: flex;
+    text-align: justify !important;
+}
+
+
+
+
+
+
+
+
+
