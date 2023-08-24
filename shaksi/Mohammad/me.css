@@ -1,0 +1,43 @@
+body{
+    margin: 0%;
+    background: linear-gradient();
+}
+body{
+    background: linear-gradient(
+        45deg,
+        blue 0%,
+        blue 50%,
+        black 50%,
+        black 100%
+        );
+    padding: 50px;
+    text-align: center;
+    min-height: 1440px;
+    color: white;
+}
+#section{
+    color: #f5f781;
+}
+.img{
+    width: 750px;
+    height: auto;
+    float: left;
+    border-radius: 3rem;
+    stroke: white ;
+}
+.content{
+    font-size: 400%;
+} 
+#about{
+    direction: rtl;
+    text-align: justify;
+    justify-content: center;
+    text-decoration: wavy;
+    font-size: 250%;
+    text-align: center;
+    padding: 2rem;
+    padding-left: 2rem;
+    margin-top: 8rem;
+    padding-right: 0%;
+    margin-right: -2rem;
+}
