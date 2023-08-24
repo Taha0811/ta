@@ -1,0 +1,80 @@
+body{
+    margin: 0;
+}
+#oo{
+    background: rgb(0, 0, 0);
+    width: 100%;
+}
+#WA{
+    text-align: right;
+    justify-content: space-between;
+}
+#khat{
+    border-style: dotted;
+}
+#ak{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 5rem;
+}
+#tt{
+    border-radius: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#khatt{
+    border-style: dotted !important;
+}
+#pp{
+    direction: rtl;
+    text-align: justify;
+    font-size: larger;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+}
+#dd{
+    text-align: right;
+    direction: rtl;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+#fot-sec{
+    text-align: center;
+    font-size: x-large;
+    margin-top: 2rem;
+}
+#khattt{
+    border-style: dotted !important;
+}
+#btn{
+    justify-content: space-between;
+}
+#navbar{
+    position: fixed;
+        direction: rtl;
+        width: 100%;
+        display: sticky !important;
+        z-index: 10;
+}
+#text{
+    text-align: center;
+}
+#footer{
+    margin-top: 2rem;
+    margin-bottom: 0;
+    direction: rtl;
+    text-align: center;
+    justify-self: center;
+    background: #000000;
+    color: #ffffff;
+    padding: 1rem;
+    font-size: larger;
+}
+#h3{
+    margin-bottom: 0;
+}
