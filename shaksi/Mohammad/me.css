@@ -18,7 +18,7 @@ body{
 #section{
     color: #f5f781;
 }
-.img{
+.img-fluid{
     width: 750px;
     height: auto;
     float: left;
